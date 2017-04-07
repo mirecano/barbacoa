@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+Olalla Iglesias
+*-*-*-*
+Toni Montalvo
+=======
+Aitor
+Toni Profe
+=======
+Kevin López
+=======
 Nou fitxer assistents
 
 Tots convidats menys Alex
+>>>>>>> 1bc00e8db73fb15614c866f007a149637de2393b
